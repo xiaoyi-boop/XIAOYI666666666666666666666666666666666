@@ -111,7 +111,7 @@ about:Label("作者：小依")
 about:Label("脚本持续云更新中")
 about:Label("脚本上次更新时间5月6日")
 about:Label("服务器ID检测已删除")
-about:Label("你好:"..game.Players.LocalPlayer.Character.Name)
+about:Label("你好"..game.Players.LocalPlayer.Character.Name)
 
 local about = UITab1:section("『玩家信息』",false)
 
