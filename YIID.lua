@@ -109,7 +109,7 @@ local about = UITab1:section("作者发话",true)
 about:Label("依脚本")
 about:Label("作者：小依")
 about:Label("脚本持续云更新中")
-about:Label("脚本上次更新时间3月30日")
+about:Label("脚本上次更新时间5月6日")
 about:Label("服务器ID检测已删除")
 
 local about = UITab1:section("『玩家信息』",false)
